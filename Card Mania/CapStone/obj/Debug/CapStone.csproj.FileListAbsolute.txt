@@ -1,0 +1,36 @@
+C:\Users\23aka\source\repos\CapStone\CapStone\bin\Debug\CapStone.exe.config
+C:\Users\23aka\source\repos\CapStone\CapStone\bin\Debug\CapStone.exe
+C:\Users\23aka\source\repos\CapStone\CapStone\bin\Debug\CapStone.pdb
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.csprojAssemblyReference.cache
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.Properties.Resources.resources
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.csproj.GenerateResource.cache
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.exe
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.pdb
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.LogInScreen.resources
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.MainMenu.resources
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.SignUp.resources
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.Directions.resources
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.WarForm.resources
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.Crazy8Form.resources
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.BlackJackForm.resources
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.Stats.resources
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.Options.resources
+C:\Users\23aka\source\repos\CapStone\CapStone\obj\Debug\CapStone.History.resources
+S:\Projects\CapStone - Card Mania\CapStone\bin\Debug\CapStone.exe.config
+S:\Projects\CapStone - Card Mania\CapStone\bin\Debug\CapStone.exe
+S:\Projects\CapStone - Card Mania\CapStone\bin\Debug\CapStone.pdb
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.csprojAssemblyReference.cache
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.BlackJackForm.resources
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.Crazy8Form.resources
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.Directions.resources
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.LogInScreen.resources
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.MainMenu.resources
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.Options.resources
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.History.resources
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.Properties.Resources.resources
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.SignUp.resources
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.Stats.resources
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.WarForm.resources
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.csproj.GenerateResource.cache
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.exe
+S:\Projects\CapStone - Card Mania\CapStone\obj\Debug\CapStone.pdb
